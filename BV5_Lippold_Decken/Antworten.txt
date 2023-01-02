@@ -1,0 +1,12 @@
+Aufgabe 4:
+
+ 1. den Input Level "To Black" erhöhen?:
+	Bleibt gleich, bis zum ersten Histogram-Peak (Minimum) und fällt dann immer weiter ab. (Bis 0)
+ 
+2. den Input Level "To White" erniedrigen?:
+	Wie bei 1, nur anders herum, fällt ab dem Maximum Wert ab.
+ 3. den Output Level "Minimum" erhöhen?:
+	Sinkt kontinuierlich bis 0.
+
+ 4. den Output Level "Maximum" erniedrigen?:
+	Sinkt kontinuierlich bis 0.
